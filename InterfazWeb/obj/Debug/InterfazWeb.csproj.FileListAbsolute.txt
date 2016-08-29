@@ -1,0 +1,5 @@
+C:\Users\Rakkash\Desktop\ProyectoGestionBencinera\InterfazWeb\bin\InterfazWeb.dll
+C:\Users\Rakkash\Desktop\ProyectoGestionBencinera\InterfazWeb\bin\InterfazWeb.pdb
+C:\Users\Rakkash\Desktop\ProyectoGestionBencinera\InterfazWeb\obj\Debug\InterfazWeb.csprojResolveAssemblyReference.cache
+C:\Users\Rakkash\Desktop\ProyectoGestionBencinera\InterfazWeb\obj\Debug\InterfazWeb.dll
+C:\Users\Rakkash\Desktop\ProyectoGestionBencinera\InterfazWeb\obj\Debug\InterfazWeb.pdb
