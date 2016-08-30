@@ -13,5 +13,10 @@ namespace InterfazWeb
         {
 
         }
+
+        protected void btnRegistrar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Signup", false);
+        }
     }
 }

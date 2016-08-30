@@ -5,9 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Home</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" /> 
+    
     <link href="JumbotronTemplate.css" rel="stylesheet" />
     <link href="sweetalert2.min.css" rel="stylesheet" />
+    <link href="bootstrap.min.css" rel="stylesheet" />
 </head>
 <body>
 
@@ -20,13 +21,14 @@
             <li role="presentation"><a href="#">Contact</a></li>
           </ul>
         </nav>
-        <h3 class="text-muted">Project name</h3>
+        <h3 class="text-muted">Proyecto Bencinera</h3>
       </div>
 
       <div class="jumbotron">
         <h1>Jumbotron heading</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
+
+          <p><a class="btn btn-lg btn-success" href="SignUp.aspx" role="button">Sign up today</a></p>
       </div>
 
       <div class="row marketing">
@@ -61,10 +63,11 @@
 
     <script src="sweetalert2.min.js" ></script>
     <script src="jquery.min.js" ></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    
     <script>
         //alert("hey");
-        swal("Funciona", "Yupiiii", "success");
+        //swal("Funciona", "Yupiiii", "success");
     </script>
 </body>
 </html>
